@@ -4,7 +4,7 @@ import numpy as np  # type: ignore
 import os
 import time
 
-# Access the webcam
+# Access the webcam 
 video = cv2.VideoCapture(0)
 
 # Path to the DNN model and Haarcascade files
